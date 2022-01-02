@@ -4,6 +4,7 @@ export default function Mycomp(props){
         <ul>
             <li>Customer Name: {props.name}</li>
             <li>Email: {props.email}</li>
+            <li>Adress: {props.address}</li>
         </ul>
     ) 
 }

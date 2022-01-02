@@ -5,7 +5,9 @@ let a = [
         email: "subbarayan40@gmail.com",
         address: {
             door: "C1-Saffron White House",
-            city: "Coimbatore-43"
+            city: "Coimbatore-43",
+            State: "Tamil Nadu",
+            Country: "India"
         }
     },
     {
@@ -14,7 +16,9 @@ let a = [
         email: "raju10@gmail.com",
         address: {
             door: "B3-Saffron White House",
-            city: "Coimbatore-43"
+            city: "Coimbatore-43",
+            State: "Tamil Nadu",
+            Country: "India"
         }
     },
     {
@@ -23,7 +27,9 @@ let a = [
         email: "raju10@gmail.com",
         address: {
             door: "B3-Saffron White House",
-            city: "Coimbatore-43"
+            city: "Coimbatore-43",
+            State: "Tamil Nadu",
+            Country: "India"
         }
     },
     
