@@ -1,10 +1,11 @@
 export default function Mycomp(props){
     console.log(props);
+    const {name, email, address} = props;
     return(
         <ul>
-            <li>Customer Name: {props.name}</li>
-            <li>Email: {props.email}</li>
-            <li>Adress: {props.address}</li>
+            <li>Customer Name: {name}</li>
+            <li>Email: {email}</li>
+            <li>Adress: {address.door}</li>
         </ul>
     ) 
 }
