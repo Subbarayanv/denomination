@@ -6,8 +6,8 @@ let a = [
         address: {
             door: "C1-Saffron White House",
             city: "Coimbatore-43",
-            State: "Tamil Nadu",
-            Country: "India"
+            state: "Tamil Nadu",
+            country: "India"
         }
     },
     {
@@ -17,8 +17,8 @@ let a = [
         address: {
             door: "B3-Saffron White House",
             city: "Coimbatore-43",
-            State: "Tamil Nadu",
-            Country: "India"
+            state: "Tamil Nadu",
+            country: "India"
         }
     },
     {
@@ -28,8 +28,8 @@ let a = [
         address: {
             door: "B3-Saffron White House",
             city: "Coimbatore-43",
-            State: "Tamil Nadu",
-            Country: "India"
+            state: "Tamil Nadu",
+            country: "India"
         }
     },
     

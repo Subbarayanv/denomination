@@ -5,7 +5,10 @@ export default function Mycomp(props){
         <ul>
             <li>Customer Name: {name}</li>
             <li>Email: {email}</li>
-            <li>Adress: {address.door}</li>
+            <li>Door: {address.door}</li>
+            <li>City: {address.city}</li>
+            <li>State: {address.state}</li>
+            <li>Country: {address.country}</li>
         </ul>
     ) 
 }
